@@ -1,4 +1,4 @@
-module github.com/go-playground/form/v4
+module github.com/Kansuler/form/v4
 
 go 1.13
 
